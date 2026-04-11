@@ -1,7 +1,8 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Awais%20Khan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=180&section=header&text=Awais%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Awais9986&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Awais9986" />
@@ -116,5 +117,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=180&section=header&fontAlignY=35" />
 </p>
