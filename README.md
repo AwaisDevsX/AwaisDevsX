@@ -1,7 +1,10 @@
 # Hi 👋, I'm Awais Khan
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AwaisDevsX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=AwaisDevsX&label=👁️%20PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" 
+    alt="Profile Views" 
+  />
 </p>
 
 ### 💻 Frontend Web Developer
