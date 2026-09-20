@@ -31,24 +31,6 @@ I enjoy learning new technologies, improving my JavaScript skills, and turning i
 
 ---
 
-## 📌 What I Do
-
-* 🌐 Responsive Website Development
-* 🎨 Modern UI Development
-* ⚡ JavaScript Development
-* ⚛️ React Development
-* 🔧 Git & GitHub
-* 📱 Mobile-Friendly Web Design
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaisDevsX&theme=github-compact&hide_border=true" width="100%" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
