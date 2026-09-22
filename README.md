@@ -29,7 +29,7 @@ I enjoy learning new technologies, improving my JavaScript skills, and turning i
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html5,css3,js,react,tailwind,bootstrap,git,github,Gitlab,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,Gsap,git,github,Gitlab,vscode" />
 </p>
 
 ---
