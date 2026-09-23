@@ -35,7 +35,7 @@ I enjoy learning new technologies, improving my JavaScript skills, and turning i
 ---
 
 
-## 📫 Connect With Me
+## 📞 Connect With Me
 
 <p>
   <a href="https://github.com/AwaisDevsX">
