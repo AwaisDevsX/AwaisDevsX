@@ -1,9 +1,9 @@
 # Hi 👋, I'm Awais Khan
 
 <p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=AwaisDevsX&label=👁️%20PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" 
-    alt="Profile Views" 
+  <img
+    src="https://komarev.com/ghpvc/?username=AwaisDevsX&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"
+    alt="Profile Views"
   />
 </p>
 
